@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Daniel-JB/CoderDojo/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* [**Python**](./Python/Lesson_1-Downloading-And-Installing/index.md)
+* [**Python**](./Python/index.md)
 
 
 ### Markdown
