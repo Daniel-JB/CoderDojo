@@ -3,7 +3,6 @@
 ## Step 1 Download Python
 <li>Go to he the python download page by clicking <a href="https://www.python.org/downloads/">here</a></li>
 <li>Click Download Python 3.10.0</li>
-<img src="Python_1_1.png" alt="image">
 <img src="Python_1_1.png" class="img-responsive" alt="Download Python 3.10.0">
 
 
