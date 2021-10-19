@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CoderDojo :)
 
 You can use the [editor on GitHub](https://github.com/Daniel-JB/CoderDojo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
