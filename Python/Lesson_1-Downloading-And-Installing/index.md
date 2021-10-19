@@ -1,7 +1,5 @@
 ## Downloading and installing python
 
-
-![Image](https://daniel-jb.github.io/CoderDojo/Python/Lesson_1-Downloading-And-Installing/Python_1_1.png)
-
-
+Go the the python download page <a href="https://www.python.org/downloads/">here</a>
+<li>Click Download Python 3.10.0</li>
 <img src="Python_1_1.png" alt="image">
