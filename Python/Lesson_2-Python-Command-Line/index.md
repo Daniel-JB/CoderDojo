@@ -1,10 +1,8 @@
-|               |               |       |
-| ------------- |:-------------:| -----:|
 | [<< back](../)      |  [Home](https://daniel-jb.github.io/CoderDojo) | nothing |
+| ------------- |:-------------:| -----:|
+|     |   |  |
 
-[Home](https://daniel-jb.github.io/CoderDojo)
 
-[<< back](../)
 
 
 ## Python Command Line
