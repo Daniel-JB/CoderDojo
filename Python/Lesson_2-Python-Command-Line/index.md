@@ -1,4 +1,4 @@
-{:style="border: 1px solid black"}
+{:style="background-color: #000000"}
 | [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
 | ------------- | -----:|
 | [<< back](../)               |   [Home](https://daniel-jb.github.io/CoderDojo)    |
