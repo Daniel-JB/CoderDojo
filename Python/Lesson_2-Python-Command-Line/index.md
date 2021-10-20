@@ -3,10 +3,14 @@
  tr {
          border-width: 0px;
          background-color: #ffffff;
+ border: none;
+
    }
   td {
          border-width: 0px;
          background-color: #ffffff;
+ border: none;
+
    }
 </style>
 
