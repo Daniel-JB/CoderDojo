@@ -1,11 +1,5 @@
 
-<style>
- tr {
-         border-width: 0px;
-         background-color: #ffffff;
-         border: none;
-   }
- 
+<style> 
  tbody {
         border: none;
         border-width: 0px;
@@ -19,11 +13,11 @@
     background-color: #FFFFFF;
 }
  
- td {
-         border-width: 0px;
-         background-color: #ffffff;
-         border: none;
-   }
+.markdown-body td {
+    border-right: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    padding: 5px;
+}
 </style>
 
 | [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
