@@ -2,7 +2,7 @@
 
 ## Step 1 Open command line
 <li>Open up your command line by clicking thw windows icon at the bottom left and typing in cmd</li>
-<img src="Python_1_1.png" alt="image">
+<a href = "Python_1_1.png"><img src="Python_1_1.png" alt="image"></a>
 
 ## Step 2 Make sure the following window is visibile
 <li>The following window should pop up, it may be different colors</li>
