@@ -1,6 +1,6 @@
 
 <style> 
- table {
+ .markdown-body table {
    margin-bottom: -40px;
  }
  
