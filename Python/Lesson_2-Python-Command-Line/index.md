@@ -7,9 +7,10 @@
    }
  
  tbody {
- border: none;
-         border-width: 0px;
-
+        border: none;
+        border-width: 0px;
+        border-top: 0px;
+        border-bottom: 0px;
  }
  
  td {
