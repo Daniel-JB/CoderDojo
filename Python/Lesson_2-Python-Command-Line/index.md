@@ -1,6 +1,6 @@
 
 <style>
- th {
+ tr {
          background-color: #ffffff;
    }
 </style>
