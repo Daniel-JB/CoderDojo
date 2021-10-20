@@ -3,14 +3,19 @@
  tr {
          border-width: 0px;
          background-color: #ffffff;
- border: none;
-
+         border: none;
    }
-  td {
+ 
+ tbody {
+ border: none;
+         border-width: 0px;
+
+ }
+ 
+ td {
          border-width: 0px;
          background-color: #ffffff;
- border: none;
-
+         border: none;
    }
 </style>
 
