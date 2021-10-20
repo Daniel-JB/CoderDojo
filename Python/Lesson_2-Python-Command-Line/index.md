@@ -3,6 +3,9 @@
  tr {
          background-color: #ffffff;
    }
+  td {
+         background-color: #ffffff;
+   }
 </style>
 
 | [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
