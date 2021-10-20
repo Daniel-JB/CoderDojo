@@ -1,4 +1,4 @@
-{:class="table table-bordered"}
+{:style="border: 1px solid black"}
 | [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
 | ------------- | -----:|
 | [<< back](../)               |   [Home](https://daniel-jb.github.io/CoderDojo)    |
