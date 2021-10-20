@@ -6,13 +6,13 @@
 
 ## Step 2 Make sure the following window is visibile
 <li>The following window should pop up, it may be different colors</li>
-<img src="Python_1_2.png" alt="image">
+<a href = "Python_1_2.png"><img src="Python_1_2.png" alt="image"></a>
 
 ## Step 3 Check python is installed correctly
 <li>Type in python --version and press enter to verify python is installed correct and to see what version is installed. Please notice there are two minus symbols before version</li>
-<img src="Python_1_3.png" alt="image">
+<a href = "Python_1_3.png"><img src="Python_1_3.png" alt="image"></a>
 
 ## Step 4 Open the Python command line
 <li>Type in python or py</li>
-<img src="Python_1_4.png" alt="image">
+<a href = "Python_1_4.png"><img src="Python_1_4.png" alt="image"></a>
 
