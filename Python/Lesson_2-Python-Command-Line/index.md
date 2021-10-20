@@ -15,9 +15,8 @@
 
 | [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
 | -------------                   | -----:                                             |
-|                   |       |
+|   ## Python Command Line                |       |
 
-## Python Command Line
 
 ## Step 1 Open command line
 <li>Open up your command line by clicking thw windows icon at the bottom left and typing in cmd</li>
