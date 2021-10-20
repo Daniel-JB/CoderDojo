@@ -1,8 +1,11 @@
- <a href = "https://daniel-jb.github.io/CoderDojo"> Home </a> 
+|               |               |       |
+| ------------- |:-------------:| -----:|
+| [<< back](../)      |  [Home](https://daniel-jb.github.io/CoderDojo) | nothing |
+
+[Home](https://daniel-jb.github.io/CoderDojo)
 
 [<< back](../)
 
-<a href = "../"> << back </a>  {: .align-left}   
 
 ## Python Command Line
 
