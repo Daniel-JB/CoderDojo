@@ -1,8 +1,8 @@
 
 <style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black; background-color: #ffffff;
-        }
+ th {
+         background-color: #ffffff;
+   }
 </style>
 
 | [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
