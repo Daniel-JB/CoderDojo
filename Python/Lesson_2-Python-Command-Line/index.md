@@ -13,6 +13,12 @@
         border-bottom: 0px;
  }
  
+ .markdown-body tbody {
+    border-top: 2px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+ 
  td {
          border-width: 0px;
          background-color: #ffffff;
