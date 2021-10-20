@@ -1,6 +1,6 @@
-| [<< back](../)      |  [Home](https://daniel-jb.github.io/CoderDojo) | nothing |
-| ------------- |:-------------:| -----:|
-|     |   |  |
+| [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
+| ------------- | -----:|
+|               |       |  
 
 
 
