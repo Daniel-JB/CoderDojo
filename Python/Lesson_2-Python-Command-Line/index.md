@@ -1,9 +1,11 @@
 
 <style>
  tr {
+         border-width: 0px;
          background-color: #ffffff;
    }
   td {
+         border-width: 0px;
          background-color: #ffffff;
    }
 </style>
