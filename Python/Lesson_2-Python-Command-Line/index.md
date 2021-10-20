@@ -1,5 +1,9 @@
 
 <style> 
+ table {
+   margin-bottom: -40px;
+ }
+ 
  .markdown-body tbody {
     border-top: 2px solid #FFFFFF;
     border-bottom: 2px solid #FFFFFF;
