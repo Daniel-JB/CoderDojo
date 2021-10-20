@@ -1,4 +1,4 @@
-<a href = "../"> << back </a>
+<a href = "../"> << back </a>      <p style="text-align: right"> <a href = "https://daniel-jb.github.io/CoderDojo"> Home </a> </p>
 
 ## Python Command Line
 
