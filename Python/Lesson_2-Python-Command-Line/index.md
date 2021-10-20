@@ -1,12 +1,5 @@
 
 <style> 
- tbody {
-        border: none;
-        border-width: 0px;
-        border-top: 0px;
-        border-bottom: 0px;
- }
- 
  .markdown-body tbody {
     border-top: 2px solid #FFFFFF;
     border-bottom: 2px solid #FFFFFF;
