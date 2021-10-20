@@ -1,4 +1,10 @@
-{:style="background-color: #FFFFFF"}
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 | [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
 | -------------                   | -----:                                             |
 | [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
