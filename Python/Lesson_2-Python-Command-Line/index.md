@@ -1,7 +1,13 @@
 | [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
 | ------------- | -----:|
+|               |       |
 
+f
 
+| ------------- | -----:|
+| [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
+
+f
 
 
 ## Python Command Line
