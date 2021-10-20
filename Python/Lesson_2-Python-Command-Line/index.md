@@ -10,9 +10,9 @@
 
 ## Step 3 Check python is installed correctly
 <li>Type in python --version and press enter to verify python is installed correct and to see what version is installed. Please notice there are two minus symbols before version</li>
-<img src="Python_1_2.png" alt="image">
+<img src="Python_1_3.png" alt="image">
 
 ## Step 4 Open the Python command line
 <li>Type in python or py</li>
-<img src="Python_1_3.png" alt="image">
+<img src="Python_1_4.png" alt="image">
 
