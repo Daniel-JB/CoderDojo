@@ -1,4 +1,6 @@
-<a href = "../"> << back </a>      <div style="text-align: right"> <a href = "https://daniel-jb.github.io/CoderDojo"> Home </a> </div>
+ <a href = "https://daniel-jb.github.io/CoderDojo"> Home </a> 
+
+<a href = "../"> << back </a>  {: .align-left}   
 
 ## Python Command Line
 
