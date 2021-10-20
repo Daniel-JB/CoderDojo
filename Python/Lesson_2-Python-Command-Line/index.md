@@ -1,5 +1,7 @@
  <a href = "https://daniel-jb.github.io/CoderDojo"> Home </a> 
 
+[<< back](../)
+
 <a href = "../"> << back </a>  {: .align-left}   
 
 ## Python Command Line
