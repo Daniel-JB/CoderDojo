@@ -1,6 +1,7 @@
-{:style="background-color: #000000"}
+{:style="background-color: #FFFFFF"}
 | [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
 | ------------- | -----:|
+{:style="background-color: #FFFFFF"}
 | [<< back](../)               |   [Home](https://daniel-jb.github.io/CoderDojo)    |
 
 break
