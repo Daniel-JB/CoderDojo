@@ -1,17 +1,7 @@
 {:style="background-color: #FFFFFF"}
-| [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
-| ------------- | -----:|
-|{:style="background-color: #FFFFFF"} [<< back](../)               |   [Home](https://daniel-jb.github.io/CoderDojo)    |
-
-break
-
-{:style="background-color: #FFFFFF"}
-| [<< back](../)      | [Home](https://daniel-jb.github.io/CoderDojo)  |
-| ------------- | -----:|
-| [<< back](../)               |   [Home](https://daniel-jb.github.io/CoderDojo)    |
-
-break
-
+| [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
+| -------------                   | -----:                                             |
+| [<< back](../)                  | [Home](https://daniel-jb.github.io/CoderDojo)      |
 
 ## Python Command Line
 
