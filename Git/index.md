@@ -15,7 +15,7 @@ You can add a specific file
 
 
 ## git commit
-Git commit records changes to the repository (anything that was added)
+Git commit records changes to the repository (anything that was staged)
 
 ```linux
   git commit -m "INSERT MESSAGE HERE"
