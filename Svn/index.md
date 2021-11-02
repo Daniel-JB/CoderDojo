@@ -1,5 +1,6 @@
 ## SVN Commands
 
+---------------------------------------------------------------------------
 ### svn checkout
 Checks out a working copy from the repository. This command is sometimes shortened to svn co.
  
@@ -28,3 +29,6 @@ Sends your changes back to the SVN server
 ---------------------------------------------------------------------------
 ### svn update
 Brings changes from the repository into your working copy
+```linux
+  svn update
+```   
