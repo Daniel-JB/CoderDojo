@@ -1,6 +1,13 @@
 ## GIT Commands
 
 ## git add
+```linux
+git add .
+```
+
+```linux
+git add <<file>>
+```
 TODO
 
 ## git commit
