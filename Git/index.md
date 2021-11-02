@@ -25,13 +25,25 @@ Git commit records changes to the repository (anything that was staged)
 ### git push
 TODO
 
+```linux
+  git push
+```
+
 ---------------------------------------------------------------------------
 ### git pull
 TODO
 
+```linux
+  git pull
+```
+
 ---------------------------------------------------------------------------
 ### git merge
 TODO
+
+```linux
+  git merge <<branch>>
+```
 
 ---------------------------------------------------------------------------
 ### git clone
@@ -40,3 +52,7 @@ TODO
 ---------------------------------------------------------------------------
 ### git checkout
 TODO
+
+```linux
+  git checkout <<branch>>
+```
