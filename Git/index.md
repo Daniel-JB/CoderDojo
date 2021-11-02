@@ -13,25 +13,30 @@ You can add a specific file
   git add <<file>>
 ```
 
-
-## git commit
+---------------------------------------------------------------------------
+### git commit
 Git commit records changes to the repository (anything that was staged)
 
 ```linux
   git commit -m "INSERT MESSAGE HERE"
 ```
 
-## git push
+---------------------------------------------------------------------------
+### git push
 TODO
 
-## git pull
+---------------------------------------------------------------------------
+### git pull
 TODO
 
-## git merge
+---------------------------------------------------------------------------
+### git merge
 TODO
 
-## git clone
+---------------------------------------------------------------------------
+### git clone
 TODO
 
-## git checkout
+---------------------------------------------------------------------------
+### git checkout
 TODO
