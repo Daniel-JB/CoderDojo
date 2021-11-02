@@ -1,6 +1,6 @@
 ## SVN Commands
 
-## svn checkout
+### svn checkout
 Checks out a working copy from the repository. This command is sometimes shortened to svn co.
  
 ```linux
@@ -10,7 +10,7 @@ Checks out a working copy from the repository. This command is sometimes shorten
 
 ---------------------------------------------------------------------------
 <br /><br />
-## svn add
+### svn add
 Svn adds puts files to the staging area
 
 ```linux
@@ -19,7 +19,7 @@ Svn adds puts files to the staging area
 
 ---------------------------------------------------------------------------
 <br /><br />
-## svn commit
+### svn commit
 Sends your changes back to the SVN server
 
 ```linux
@@ -29,5 +29,5 @@ Sends your changes back to the SVN server
 
 ---------------------------------------------------------------------------
 <br /><br />
-## svn update
+### svn update
 Brings changes from the repository into your working copy
