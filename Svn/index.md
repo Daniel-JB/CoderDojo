@@ -7,6 +7,8 @@ Checks out a working copy from the repository. This command is sometimes shorten
   svn checkout <<URL>>
 ```
 
+
+
 ## svn add
 Svn adds puts files to the staging area
 
@@ -14,11 +16,15 @@ Svn adds puts files to the staging area
   svn add <<FILE>>
 ```
 
+
+
 ## svn commit
 Sends your changes back to the SVN server
 
 ```linux
   svn commit -m "INSERT MESSAGE HERE"
 ```
+
+
 
 ## svn update
