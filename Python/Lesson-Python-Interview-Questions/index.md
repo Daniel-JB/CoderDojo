@@ -24,9 +24,9 @@
 <br />
 
 How would you swap two variables
-
+```Python
 x, y = y, x
-
+```
 
 What would the output be for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
 
