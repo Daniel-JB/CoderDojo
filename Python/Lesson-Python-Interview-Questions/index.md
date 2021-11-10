@@ -23,14 +23,14 @@
 
 <br />
 
-###Generic Questions
-How would you swap two variables
+### Generic Questions
+1) How would you swap two variables
 ```Python
  x, y = y, x
 ```
 
-###Array Questions
-What would the output be for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
+### Array Questions
+1) What would the output be for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
 ```Python
  a) del ll[0]    - [1, 2, 3, 4, 5] 
  b) ll.pop(0)    - [1, 2, 3, 4, 5] 
@@ -39,14 +39,14 @@ What would the output be for the following array ll = [0, 1, 2, 3, 4, 5]. Take e
 ```
 
 
-What would be the output for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
+2) What would be the output for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
 ```Python
  a) ll[:3]      - [0, 1, 2] 
  b) ll[3:]      - [3, 4, 5] 
  c) ll[0:-1:2]  - [0, 2, 4] 
 ```
 
-What is the following output of list(map(lambda n: n * 2, [1, 2, 3, 4, 5]))
+3) What is the following output of list(map(lambda n: n * 2, [1, 2, 3, 4, 5]))
 ```Python
 [2, 4, 6, 8, 10]
 ```
