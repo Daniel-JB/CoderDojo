@@ -38,9 +38,9 @@ d) ll.remove(3) = [0, 1, 2, 4, 5]
 
 What would be the output for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
 
-a) ll[:3]      = [0, 1, 2]
-b) ll[3:]      = [3, 4, 5]
-c) ll[0:-1:2]  = [0, 2, 4]
+a) ll[:3]      - [0, 1, 2]
+b) ll[3:]      - [3, 4, 5]
+c) ll[0:-1:2]  - [0, 2, 4]
 
 What is the following output of list(map(lambda n: n * 2, [1, 2, 3, 4, 5]))
 
