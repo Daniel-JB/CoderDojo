@@ -22,8 +22,9 @@
 |              |       |
 
 
-## GIT Commands
+Lesson-Git-Interview-Questions
 
+## GIT Commands
 ## git add
 Git adds puts files to the staging area
 
