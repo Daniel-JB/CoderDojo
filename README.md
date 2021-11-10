@@ -14,5 +14,5 @@ Databases
 * [**SQL**](./SQL/index.md)
 
 Cloud
-* CloudFormation (Comming soon)
-* Kinesis (Comming soon)
+* CloudFormation (Coming soon)
+* Kinesis (Coming soon)
