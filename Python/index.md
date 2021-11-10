@@ -28,3 +28,9 @@
 <li>Lesson 4: <a href="https://daniel-jb.github.io/CoderDojo/Python/Lesson_4-Python-IfElse/">Python if/else (Comming soon)</a></li>
 <li>Lesson 5: <a href="https://daniel-jb.github.io/CoderDojo/Python/Lesson_5-Python-Functions/">Python Functions (Comming soon)</a></li>
 
+
+
+
+
+<li>Interview Questions: <a href="https://daniel-jb.github.io/CoderDojo/Python/Lesson-Python-Interview-Questions/">Python Interview Questions (Comming soon)</a></li>
+
