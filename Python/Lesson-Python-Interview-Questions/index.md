@@ -30,10 +30,10 @@ x, y = y, x
 
 What would the output be for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
 
-a) del ll[0]    - [1, 2, 3, 4, 5] 
-b) ll.pop(0)    - [1, 2, 3, 4, 5] 
-c) ll.pop(-1)   - [0, 1, 2, 3, 4]
-d) ll.remove(3) - [0, 1, 2, 4, 5]
+a) del ll[0]    - [1, 2, 3, 4, 5] <br />
+b) ll.pop(0)    - [1, 2, 3, 4, 5] <br />
+c) ll.pop(-1)   - [0, 1, 2, 3, 4] <br />
+d) ll.remove(3) - [0, 1, 2, 4, 5] <br />
 
 
 What would be the output for the following array ll = [0, 1, 2, 3, 4, 5]. Take each answer as if array has been reset
