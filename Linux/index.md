@@ -22,4 +22,4 @@
 |              |       |
 
 <br />
-<li>Lesson 1: <a href="https://daniel-jb.github.io/CoderDojo/Linux/Lesson_1-Installing-packages/">Installing Packages</a></li>
+<li>Lesson 1: <a href="https://daniel-jb.github.io/CoderDojo/Linux/Lesson_1-Installing-packages/">Packages</a></li>
