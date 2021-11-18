@@ -21,4 +21,9 @@
 | -------------                   | -----:                                             |
 |              |       |
 
-<br />
+## Downloading and installing python
+
+### Installing on ubuntu
+```linux
+apt install nginx
+```
