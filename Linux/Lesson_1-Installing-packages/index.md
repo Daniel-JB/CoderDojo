@@ -24,7 +24,7 @@
 ## Using packages
 ### Installing
 
-#### Uubuntu/debian
+#### Ubuntu/debian
 ```linux
  apt-get install nginx
 ```
