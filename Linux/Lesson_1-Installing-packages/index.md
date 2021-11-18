@@ -21,9 +21,14 @@
 | -------------                   | -----:                                             |
 |              |       |
 
-## Downloading and installing python
+## Downloading and installing packages
 
-### Installing on ubuntu
+### Installing on ubuntu/debian
 ```linux
-apt install nginx
+apt-get install nginx
+```
+
+### Installing on CentOS/Fedora/RedHat
+```linux
+yum install nginx
 ```
