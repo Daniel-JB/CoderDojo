@@ -26,10 +26,10 @@
 
 #### Uubuntu/debian
 ```linux
-apt-get install nginx
+ apt-get install nginx
 ```
 
 ####  CentOS/Fedora/RedHat
 ```linux
-yum install nginx
+ yum install nginx
 ```
