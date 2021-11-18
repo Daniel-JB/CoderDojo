@@ -50,3 +50,30 @@
 ```Python
 [2, 4, 6, 8, 10]
 ```
+
+### Code questions
+1) Create palindrome
+```Python
+def palindrome(s):
+    i = 0
+    while i <= len(s) / 2:
+        if s[i] != s[-i - 1]:
+            return False
+        i += 1
+    return True
+```
+
+2) Create fizz buzz
+```
+for fizzbuzz in range(51):
+    if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+        print("fizzbuzz")
+        continue
+    elif fizzbuzz % 3 == 0:
+        print("fizz")
+        continue
+    elif fizzbuzz % 5 == 0:
+        print("buzz")
+        continue
+    print(fizzbuzz)
+```
