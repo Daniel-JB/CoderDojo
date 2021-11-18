@@ -21,7 +21,7 @@
 | -------------                   | -----:                                             |
 |              |       |
 
-## Downloading and installing packages
+## Using packages
 
 ### Installing on ubuntu/debian
 ```linux
