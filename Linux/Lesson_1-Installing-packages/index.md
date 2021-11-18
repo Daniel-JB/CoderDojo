@@ -22,13 +22,14 @@
 |              |       |
 
 ## Using packages
+### Installing
 
-### Installing on ubuntu/debian
+#### Uubuntu/debian
 ```linux
 apt-get install nginx
 ```
 
-### Installing on CentOS/Fedora/RedHat
+####  CentOS/Fedora/RedHat
 ```linux
 yum install nginx
 ```
