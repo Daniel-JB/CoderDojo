@@ -51,6 +51,11 @@
 [2, 4, 6, 8, 10]
 ```
 
+4) How do you add to the array
+```Python
+array.append(value)
+```
+
 ### Code questions
 1) Create palindrome
 ```Python
