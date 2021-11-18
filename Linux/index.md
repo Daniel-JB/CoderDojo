@@ -22,7 +22,4 @@
 |              |       |
 
 <br />
-<li>Lesson 1: <a href="https://daniel-jb.github.io/CoderDojo/Git/Lesson_1-Downloading-And-Installing/">Git downloading and installing</a></li>
-<li>Lesson 2: <a href="https://daniel-jb.github.io/CoderDojo/Git/Lesson_2-Git-Commands/">Git Commands</a></li>
-<li>Interview Questions: <a href="https://daniel-jb.github.io/CoderDojo/Git/Lesson-Git-Interview-Questions/">Git interview questions (Coming soon)</a></li>
-
+<li>Lesson 1: <a href="https://daniel-jb.github.io/CoderDojo/Linux/Lesson_1-Installing-packages/">Installing Packages</a></li>
