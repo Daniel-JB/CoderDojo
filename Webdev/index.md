@@ -31,4 +31,4 @@ Welcome! here I go through the fundamentals of building a website. It’s pretty
 
 ### 🚩LESSONS
 
-1. [Starting](./Webdev/lesson_1_start/index.md) 
+1. [Starting](./lesson_1_start/index.md) 
