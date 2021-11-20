@@ -39,3 +39,17 @@
 <li>Type in python or py</li>
 <a href = "Python_1_4.png"><img src="Python_1_4.png" alt="image"></a>
 
+
+
+
+<a href = "Python_1_5.png"><img src="Python_1_5.png" alt="image"></a>
+<a href = "Python_1_6.png"><img src="Python_1_6.png" alt="image"></a>
+<a href = "Python_1_7.png"><img src="Python_1_7.png" alt="image"></a>
+<a href = "Python_1_8.png"><img src="Python_1_8.png" alt="image"></a>
+<a href = "Python_1_9.png"><img src="Python_1_9.png" alt="image"></a>
+<a href = "Python_1_10.png"><img src="Python_1_10.png" alt="image"></a>
+<a href = "Python_1_11.png"><img src="Python_1_11.png" alt="image"></a>
+<a href = "Python_1_12.png"><img src="Python_1_11.png" alt="image"></a>
+
+
+
