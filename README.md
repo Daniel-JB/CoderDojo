@@ -1,7 +1,7 @@
 ## Welcome to CoderDojo :)
 
 
-Please select the language which you would like to learn
+Please select what you would like to learn
 
 Languages:
 * [**Python**](./Python/index.md)
@@ -15,7 +15,13 @@ Databases
 
 Admin
 * [**Linux**](./Linux/index.md)
+* Windows (Coming soon)
 
-Cloud
+Amazon
 * CloudFormation (Coming soon)
 * Kinesis (Coming soon)
+
+DevOps
+* Terraform (Coming soon)
+* Puppet (Coming soon)
+* Chef (Coming soon)
