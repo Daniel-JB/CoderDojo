@@ -134,8 +134,10 @@ if trafficLights == "green":
   print("DRIVE DRIVE DRIVE")
 elif trafficLights == "orange":
   print("DRIVE LESS")
-elif trafficLights == "RED":
-  print("no drive")
+elif trafficLights == "red":
+  print("NO DRIVE")
+else 
+  print("NO LAWS")
 ```
 
 ```python
