@@ -26,5 +26,8 @@ DevOps
 * Puppet (Coming soon)
 * Chef (Coming soon)
 
+Retro
+* [**C64**](./C64/index.md)
+
 Webdev 
 * [**Fundamentals**](./Webdev/index.md)
