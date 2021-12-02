@@ -48,18 +48,18 @@
 
 3) What is the following output of list(map(lambda n: n * 2, [1, 2, 3, 4, 5]))
 ```Python
-[2, 4, 6, 8, 10]
+ [2, 4, 6, 8, 10]
 ```
 
 4) How do you add to the array
 ```Python
-array.append(value)
+ array.append(value)
 ```
 
 ### Code questions
 1) Create palindrome
 ```Python
-def palindrome(s):
+ def palindrome(s):
     i = 0
     while i <= len(s) / 2:
         if s[i] != s[-i - 1]:
@@ -70,7 +70,7 @@ def palindrome(s):
 
 2) Create fizz buzz
 ```Python
-for fizzbuzz in range(51):
+ for fizzbuzz in range(51):
     if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
         print("fizzbuzz")
         continue
